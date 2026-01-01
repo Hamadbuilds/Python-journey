@@ -1,12 +1,3 @@
-dkjnlfldrhc
-ckdnjkc vfnicfd
-dcidcjdcol,dc
-djxndc'() kdjcnjdxcnjdcn
-cdmcdijniodjpcd
-
-
-
-
 #.strip(),.len(),.lower(),.upper(),.split()
 
 a=input('Enter something:')
