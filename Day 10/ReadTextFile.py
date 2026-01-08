@@ -1,14 +1,3 @@
-gghg6uhh
-njuu88m
-.m..m
-
-
-nmmu7jh
-yyhhh ..mjjnyubh
-ny77
-hjjnm.kinu7uh
-
-
 file=open('TEXT.txt','r')
 f=file.readlines()
 newlist=[]
